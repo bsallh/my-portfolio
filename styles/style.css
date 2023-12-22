@@ -136,6 +136,17 @@ nav li.active a {
   color: var(--branding-color);
 }
 
+.main-contact-links a {
+  color: black;
+  font-size: 28px;
+  transition: all 100ms ease-in-out;
+  text-decoration: none;
+}
+
+.main-contact-links a:hover {
+  color: var(--branding-color);
+}
+
 footer {
   margin: 60px 0;
 }
